@@ -12,7 +12,7 @@
 ### `Coursera Courses`
 
 #### Back-End Development
-> [!TIP]
+> [!NOTE]
 > These Back-End Development Courses will strengthen my skills and Knowledge even more.
 
 - [ ] Complete the [Programming in Python](https://www.coursera.org/learn/programming-in-python/home/week/2) Certification
