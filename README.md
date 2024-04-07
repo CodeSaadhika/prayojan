@@ -12,6 +12,7 @@
 ### `Coursera Courses`
 
 #### Back-End Development
+
 > [!NOTE]
 > These Back-End Development Courses will strengthen my skills and Knowledge even more.
 
@@ -29,7 +30,11 @@
 - [ ] Assignment in Internshala for an internship 
 - [ ] Vercel for hosting the backend project
 
-#### Front-End Development  
+#### Front-End Development 
+
+> [!NOTE]
+> These Front-End Development Courses will strengthen my skills and Knowledge even more.
+
 - [ ] Complete the [React Basics](https://www.coursera.org/learn/react-basics/home/week/1) Certification
 - [ ] Make the Post `React Basics` on Linkedin
 - [ ] Complete the [Advanced React](https://www.coursera.org/learn/advanced-react/home/week/1) Certification
