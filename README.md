@@ -9,7 +9,7 @@
 - [ ] Make the Post `JavaScript Algorithms and Data structure` on Linkedin
 - [ ] Update the [Portfolio](https://satyasaadhika.github.io/) code from these JS learnings to use JSON data inserted in DOM 
 
-### Coursera Courses
+### `Coursera Courses`
 
 #### Back-End Development
 - [ ] Complete the [Programming in Python](https://www.coursera.org/learn/programming-in-python/home/week/2) Certification
