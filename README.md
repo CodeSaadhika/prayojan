@@ -11,11 +11,9 @@
 
 ### `Coursera Courses`
 
+#### Back-End Development
 > [!TIP]
-> These Back-End Development Courses will strengthen my skills and Knowledge even more
-
-> [!BACK-END DEVELOPMENT]
-> These Back-End Development Courses will strengthen my skills and Knowledge even more
+> These Back-End Development Courses will strengthen my skills and Knowledge even more.
 
 - [ ] Complete the [Programming in Python](https://www.coursera.org/learn/programming-in-python/home/week/2) Certification
 - [ ] Make the Post `Programming in Python` on Linkedin
