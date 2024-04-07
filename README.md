@@ -1,7 +1,7 @@
 # prayojan
 ## A catalog of my study instructions Checklist
 
-### FreeCodeCamp Courses
+### `FreeCodeCamp Courses`
 
 - [ ] Repeat the [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) Certification
 - [ ] Make the Post `Backend Development and APIs` on Linkedin
@@ -11,7 +11,10 @@
 
 ### `Coursera Courses`
 
-#### Back-End Development
+
+> [!Back-End Development]
+> These Back-End Development Courses will strengthen my skills and Knowledge even more
+
 - [ ] Complete the [Programming in Python](https://www.coursera.org/learn/programming-in-python/home/week/2) Certification
 - [ ] Make the Post `Programming in Python` on Linkedin
 - [ ] Complete the [Introduction to Databases for Back-End Development](https://www.coursera.org/learn/intro-to-databases-back-end-development/home/week/1) Certification
