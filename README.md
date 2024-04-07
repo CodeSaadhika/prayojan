@@ -23,3 +23,8 @@
 - [ ] Make the Post `Django Web Framework` on Linkedin
 - [ ] Complete the [APIs](https://www.coursera.org/learn/apis/home/week/1) Certification
 - [ ] Make the Post `APIs` on Linkedin      
+
+- [x] Updated the resume and portfolio with new certificates
+- [x] Uploaded new certificates and the updated resume everywhere
+- [ ] Assignment in Internshala for an internship 
+- [ ] Vercel for hosting the backend project
