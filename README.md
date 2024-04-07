@@ -28,3 +28,14 @@
 - [x] Uploaded new certificates and the updated resume everywhere
 - [ ] Assignment in Internshala for an internship 
 - [ ] Vercel for hosting the backend project
+
+#### Front-End Development  
+- [ ] Complete the [React Basics](https://www.coursera.org/learn/react-basics/home/week/1) Certification
+- [ ] Make the Post `React Basics` on Linkedin
+- [ ] Complete the [Advanced React](https://www.coursera.org/learn/advanced-react/home/week/1) Certification
+- [ ] Make the Post `Advanced React` on Linkedin
+- [ ] Complete the [Principles of UX/UI Design](https://www.coursera.org/learn/principles-of-ux-ui-design/home/week/1) Certification
+- [ ] Make the Post `Principles of UX/UI Design` on Linkedin
+- [ ] Complete the [Front-End Developer Capstone](https://www.coursera.org/learn/meta-front-end-developer-capstone/home/week/1) Certification
+- [ ] Make the Post `Front-End Developer Capstone` on Linkedin 
+
