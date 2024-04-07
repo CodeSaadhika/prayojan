@@ -1,5 +1,5 @@
 # prayojan
-## A record of my study instructions Checklist
+## A catalog of my study instructions Checklist
 
 ### FreeCodeCamp Courses
 
