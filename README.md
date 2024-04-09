@@ -25,7 +25,7 @@
 #### Earth5R Artificial Intelligence and Machine Learning Content Writing Volunteer 
 - [x] Read the email carefully, understand what they are expecting
 - [ ] Call them tomorrow to understand it well from them, and ask for guidance
-- [ ] Ask about internship offer letter
+- [x] Ask about internship offer letter
 
 
 ### `Coursera Courses`
