@@ -4,10 +4,27 @@
 ### `FreeCodeCamp Courses`
 
 - [ ] Repeat the [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) Certification
+### Learning Concept
+`08/04/2024`
+### Assignment in Internshala for an internship 
+> - [x] How to Use package.json, the Core of Any Node.js Project or npm Package
+  > - [x] Add a Description to Your package.json
+    > - [x] Add Keywords to Your package.json
+     > - [x] Add a License to Your package.json
+      > - [x] Add a Version to Your package.json
+       > - [x] Expand Your Project with External Packages from npm
+`09/04/2024`
+
+      
 - [ ] Make the Post `Backend Development and APIs` on Linkedin
 - [ ] Complete the [JavaScript Algorithms and Data structure](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) Certification
 - [ ] Make the Post `JavaScript Algorithms and Data structure` on Linkedin
 - [ ] Update the [Portfolio](https://satyasaadhika.github.io/) code from these JS learnings to use JSON data inserted in DOM 
+
+## `Internship instruction`
+- [ ] Read the email carefully, understand what they are expecting
+- [ ] Call them tomorrow to understand it well from them, and ask for guidance
+- [ ] Ask about internship offer letter
 
 ### `Coursera Courses`
 
