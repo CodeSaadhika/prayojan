@@ -1,18 +1,18 @@
 # prayojan
 ## A catalog of my study instructions Checklist
 
-### `FreeCodeCamp Courses`
+## `FreeCodeCamp Courses`
 
 - [ ] Repeat the [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) Certification
-### Learning Concept
+### `Learning Concept`
 `08/04/2024`
-### Assignment in Internshala for an internship 
+#### Assignment in Internshala for an internship 
 > - [x] How to Use package.json, the Core of Any Node.js Project or npm Package
-  > - [x] Add a Description to Your package.json
-    > - [x] Add Keywords to Your package.json
-     > - [x] Add a License to Your package.json
-      > - [x] Add a Version to Your package.json
-       > - [x] Expand Your Project with External Packages from npm
+  - [x] Add a Description to Your package.json
+  - [x] Add Keywords to Your package.json
+  - [x] Add a License to Your package.json
+   - [x] Add a Version to Your package.json
+   - [x] Expand Your Project with External Packages from npm
 `09/04/2024`
 
       
