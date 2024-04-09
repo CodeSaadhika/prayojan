@@ -22,7 +22,8 @@
 - [ ] Update the [Portfolio](https://satyasaadhika.github.io/) code from these JS learnings to use JSON data inserted in DOM 
 
 ## `Internship instruction`
-- [ ] Read the email carefully, understand what they are expecting
+#### Earth5R Artificial Intelligence and Machine Learning Content Writing Volunteer 
+- [x] Read the email carefully, understand what they are expecting
 - [ ] Call them tomorrow to understand it well from them, and ask for guidance
 - [ ] Ask about internship offer letter
 
