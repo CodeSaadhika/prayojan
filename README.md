@@ -15,16 +15,17 @@
   - [x] Expand Your Project with External Packages from npm
  > `09/04/2024`
 - [ ] Make the Post `Backend Development and APIs` on Linkedin
-   ## `FreeCodeCamp Courses` 
+   ### `FreeCodeCamp Courses` 
 - [ ] Complete the [JavaScript Algorithms and Data structure](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) Certification
 - [ ] Make the Post `JavaScript Algorithms and Data structure` on Linkedin
-  ## `Portfolio work` 
+  ### `Portfolio work` 
 - [ ] Update the [Portfolio](https://satyasaadhika.github.io/) code from these JS learnings to use JSON data inserted in DOM 
 
 ## `Internship instruction`
 - [ ] Read the email carefully, understand what they are expecting
 - [ ] Call them tomorrow to understand it well from them, and ask for guidance
 - [ ] Ask about internship offer letter
+
 
 ### `Coursera Courses`
 
