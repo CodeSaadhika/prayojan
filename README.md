@@ -27,13 +27,6 @@
   ### `Portfolio work` 
 - [ ] Update the [Portfolio](https://satyasaadhika.github.io/) code from these JS learnings to use JSON data inserted in DOM 
 
-## `Internship instruction`
-#### Earth5R Artificial Intelligence and Machine Learning Content Writing Volunteer 
-- [x] Read the email carefully, understand what they are expecting
-- [ ] Call them tomorrow to understand it well from them, and ask for guidance
-- [x] Ask about internship offer letter
-
-
 ### `Coursera Courses`
 
 #### Back-End Development
@@ -50,22 +43,6 @@
 - [ ] Complete the [APIs](https://www.coursera.org/learn/apis/home/week/1) Certification
 - [ ] Make the Post `APIs` on Linkedin      
 
-- [x] Updated the resume and portfolio with new certificates
-- [x] Uploaded new certificates and the updated resume everywhere
-- [ ] Assignment in Internshala for an internship 
-- [ ] Vercel for hosting the backend project
 
-#### Front-End Development 
 
-> [!NOTE]
-> These Front-End Development Courses will strengthen my skills and Knowledge even more.
-
-- [ ] Complete the [React Basics](https://www.coursera.org/learn/react-basics/home/week/1) Certification
-- [ ] Make the Post `React Basics` on Linkedin
-- [ ] Complete the [Advanced React](https://www.coursera.org/learn/advanced-react/home/week/1) Certification
-- [ ] Make the Post `Advanced React` on Linkedin
-- [ ] Complete the [Principles of UX/UI Design](https://www.coursera.org/learn/principles-of-ux-ui-design/home/week/1) Certification
-- [ ] Make the Post `Principles of UX/UI Design` on Linkedin
-- [ ] Complete the [Front-End Developer Capstone](https://www.coursera.org/learn/meta-front-end-developer-capstone/home/week/1) Certification
-- [ ] Make the Post `Front-End Developer Capstone` on Linkedin 
 
