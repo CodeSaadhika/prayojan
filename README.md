@@ -24,8 +24,6 @@
    ### `FreeCodeCamp Courses` 
 - [ ] Complete the [JavaScript Algorithms and Data structure](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) Certification
 - [ ] Make the Post `JavaScript Algorithms and Data structure` on Linkedin
-  ### `Portfolio work` 
-- [ ] Update the [Portfolio](https://satyasaadhika.github.io/) code from these JS learnings to use JSON data inserted in DOM 
 
 ### `Coursera Courses`
 
