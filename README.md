@@ -11,19 +11,20 @@
 #### Back End Development and APIs
 - [ ] Repeat the [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) Certification
   ### Learning Concept
-  > `08/04/2024`
+  
   #### Managing Packages with NPM
-  - [x] How to Use package.json, the Core of Any Node.js Project or npm Package
-  - [x] Add a Description to Your package.json
-  - [x] Add Keywords to Your package.json
-  - [x] Add a License to Your package.json
-  - [x] Add a Version to Your package.json
-  - [x] Expand Your Project with External Packages from npm
-  > `10/04/2024`
-  - [x] Manage npm Dependencies By Understanding Semantic Versioning
-  - [x] Use the Tilde-Character to Always Use the Latest Patch Version of a Dependency
-  - [x] Use the Caret-Character to Use the Latest Minor Version of a Dependency
-  - [x] Remove a Package from Your Dependencies
+  - > `08/04/2024`  
+    - How to Use package.json, the Core of Any Node.js Project or npm Package
+    - Add a Description to Your package.json
+    - Add Keywords to Your package.json
+    - Add a License to Your package.json
+    - Add a Version to Your package.json
+    - Expand Your Project with External Packages from npm
+  - > `10/04/2024`
+    - Manage npm Dependencies By Understanding Semantic Versioning
+    - Use the Tilde-Character to Always Use the Latest Patch Version of a Dependency
+    - Use the Caret-Character to Use the Latest Minor Version of a Dependency
+    - Remove a Package from Your Dependencies
 - [ ] Make the Post on Linkedin `Backend Development and APIs` course completion
 - [ ] Share the certificate on LinkedIn post and add to certificates
 
