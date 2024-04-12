@@ -3,6 +3,8 @@
 
 > [!IMPORTANT]  
 > Make progress on on-going tasks everyday  
+
+> [!IMPORTANT]  
 > Courses, internship search and assignments, college study go in parallel, few hours each everyday  
 
 ## FreeCodeCamp Courses
