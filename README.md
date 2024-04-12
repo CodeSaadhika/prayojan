@@ -25,6 +25,15 @@
     - Use the Tilde-Character to Always Use the Latest Patch Version of a Dependency
     - Use the Caret-Character to Use the Latest Minor Version of a Dependency
     - Remove a Package from Your Dependencies
+   
+  - > `12/04/2024`
+    - Meet the Node console
+    - Start a Working Express Server
+    - Serve an HTML File
+    - Serve Static Assets
+    - Serve JSON on a Specific Route
+    - Use the .env File
+
 - [ ] Make the Post on Linkedin `Backend Development and APIs` course completion
 - [ ] Share the certificate on LinkedIn post and add to certificates
 
