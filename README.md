@@ -5,7 +5,12 @@
 > Make progress on on-going tasks everyday  
 
 > [!IMPORTANT]  
-> Courses, internship search and assignments, college study go in parallel, few hours each everyday  
+> Courses, internship search and assignments, college study go in parallel, few hours each everyday
+
+
+## Internship Assignment
+- Fyle Web Development Internship assignment Challenge
+- Yardstick Full Stack Development - ONDC Network internship assignment
 
 ## FreeCodeCamp Courses
 #### Back End Development and APIs
