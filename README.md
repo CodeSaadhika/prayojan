@@ -47,6 +47,9 @@
 - [ ] Make the Post on Linkedin for `JavaScript Algorithms and Data structure` course completion
 - [ ] Share the certificate on LinkedIn post and add to certificates
 
+  ### `Portfolio work` 
+- [ ] Update the [Portfolio](https://satyasaadhika.github.io/) code from these JS learnings to use JSON data inserted in DOM
+
 ## Coursera Courses
 
 ### Back-End Development
