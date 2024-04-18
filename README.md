@@ -9,7 +9,7 @@
 
 
 ## Internship Assignment
-- Fyle Web Development Internship assignment Challenge
+- Fyle Web Development Internship assignment Challenge Details of the assignment -[Assignment link](https://fyleuniverse.notion.site/Fyle-Web-Development-Internship-Challenge-17d5401b2ebf47cf90a77f7b39ec680c)
 - Yardstick Full Stack Development - ONDC Network internship assignment
 - Dacoid Digital Web Development internship assignment
 - 
