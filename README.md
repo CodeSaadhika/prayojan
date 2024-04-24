@@ -12,8 +12,11 @@
 - Fyle Web Development Internship assignment Challenge Details of the assignment -[Assignment link](https://fyleuniverse.notion.site/Fyle-Web-Development-Internship-Challenge-17d5401b2ebf47cf90a77f7b39ec680c)
 - Yardstick Full Stack Development - ONDC Network internship assignment [following link](https://forms.gle/TueN7YmpjxhaAK3R6)
 - Dacoid Digital Web Development internship assignment[Assignment link](https://dacoid.notion.site/Web-Dev-Assignment-b0301e382d7c49f1b2f712afe2f0b78c?pvs=4)
-- Empenofore Technologies Private Limited Web Development internship assignment 
 
+## Learn Projects- 
+- Learn to code by creating [projects](https://projectlearn.io/)
+- Learn to coding skills! [Projects](https://icodethis.com/)
+  
 ## FreeCodeCamp Courses
 #### Back End Development and APIs
 - [ ] Repeat the [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) Certification
