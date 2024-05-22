@@ -43,6 +43,10 @@
     - Serve Static Assets
     - Serve JSON on a Specific Route
     - Use the .env File
+  - > `22/05/2024`
+    - Implement a Root-Level Request Logger Middleware
+    - Chain Middleware to Create a Time Server
+    - Get Route Parameter Input from the Client
 
 - [ ] Make the Post on Linkedin `Backend Development and APIs` course completion
 - [ ] Share the certificate on LinkedIn post and add to certificates
