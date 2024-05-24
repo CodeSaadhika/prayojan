@@ -35,7 +35,8 @@
     - Use the Tilde-Character to Always Use the Latest Patch Version of a Dependency
     - Use the Caret-Character to Use the Latest Minor Version of a Dependency
     - Remove a Package from Your Dependencies
-   
+
+   ####Basic Node and Express
   - > `12/04/2024`
     - Meet the Node console
     - Start a Working Express Server
@@ -47,6 +48,15 @@
     - Implement a Root-Level Request Logger Middleware
     - Chain Middleware to Create a Time Server
     - Get Route Parameter Input from the Client
+ - > `24-05-2024`
+    - Use body-parser to Parse POST Requests
+    - Get Data from POST Requests
+#### MongoDB and Mongoose
+  - Install and Set Up Mongoose
+  - Create a Model
+  - Create and Save a Record of a Model
+  - Create Many Records with model.create()
+
 
 - [ ] Make the Post on Linkedin `Backend Development and APIs` course completion
 - [ ] Share the certificate on LinkedIn post and add to certificates
