@@ -10,6 +10,7 @@
 
 ## Internship Assignment
 - Web dev projects details -[website of King Sukh Guest House](https://drive.google.com/file/d/1JzwFTJOASbb8WpwmhNiAKKPulKn5wixL/view?usp=drive_link)
+- Advanced MERN Stack Developer Assignment:[ Building a Social Media Platform ](https://drive.google.com/file/d/1vfUdCwDeai13eZbQGVq5qjxX3O08GRw4/view?usp=drive_link)
 - Fyle Web Development Internship assignment Challenge Details of the assignment -[Assignment link](https://fyleuniverse.notion.site/Fyle-Web-Development-Internship-Challenge-17d5401b2ebf47cf90a77f7b39ec680c)
 - Yardstick Full Stack Development - ONDC Network internship assignment [following link](https://forms.gle/TueN7YmpjxhaAK3R6)
 - Dacoid Digital Web Development internship assignment[Assignment link](https://dacoid.notion.site/Web-Dev-Assignment-b0301e382d7c49f1b2f712afe2f0b78c?pvs=4)
