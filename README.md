@@ -9,9 +9,9 @@
 
 
 ## Internship Assignment
-- [ ] Web dev projects details -[website of King Sukh Guest House](https://drive.google.com/file/d/1JzwFTJOASbb8WpwmhNiAKKPulKn5wixL/view?usp=drive_link)
+- [X] Web dev projects details -[website of King Sukh Guest House](https://drive.google.com/file/d/1JzwFTJOASbb8WpwmhNiAKKPulKn5wixL/view?usp=drive_link)
 - [ ] Advanced MERN Stack Developer Assignment:[ Building a Social Media Platform ](https://drive.google.com/file/d/1vfUdCwDeai13eZbQGVq5qjxX3O08GRw4/view?usp=drive_link)
-- Fyle Web Development Internship assignment Challenge Details of the assignment -[Assignment link](https://fyleuniverse.notion.site/Fyle-Web-Development-Internship-Challenge-17d5401b2ebf47cf90a77f7b39ec680c)
+- [X] Fyle Web Development Internship assignment Challenge Details of the assignment -[Assignment link](https://fyleuniverse.notion.site/Fyle-Web-Development-Internship-Challenge-17d5401b2ebf47cf90a77f7b39ec680c)
 - Yardstick Full Stack Development - ONDC Network internship assignment [following link](https://forms.gle/TueN7YmpjxhaAK3R6)
 - Dacoid Digital Web Development internship assignment[Assignment link](https://dacoid.notion.site/Web-Dev-Assignment-b0301e382d7c49f1b2f712afe2f0b78c?pvs=4)
 
@@ -66,7 +66,7 @@
 - [ ] Share the certificate on LinkedIn post and add to certificates
 
 #### JavaScript Algorithms and Data structure
-- [ ] Complete the [JavaScript Algorithms and Data structure](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) Certification
+- [] Complete the [JavaScript Algorithms and Data structure](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) Certification
 - [ ] Make the Post on Linkedin for `JavaScript Algorithms and Data structure` course completion
 - [ ] Share the certificate on LinkedIn post and add to certificates
 
@@ -81,38 +81,38 @@
 > These Back-End Development Courses will strengthen my skills and Knowledge even more.
 
 #### Programming in Python
-- [ ] Complete the [Programming in Python](https://www.coursera.org/learn/programming-in-python/home/week/2) Certification
-- [ ] Make the Post `Programming in Python` on Linkedin
-- [ ] Share the certificate on LinkedIn post and add to certificates
+- [X] Complete the [Programming in Python](https://www.coursera.org/learn/programming-in-python/home/week/2) Certification
+- [X] Make the Post `Programming in Python` on Linkedin
+- [X] Share the certificate on LinkedIn post and add to certificates
 
 #### Introduction to Databases for Back-End Development
-- [ ] Complete the [Introduction to Databases for Back-End Development](https://www.coursera.org/learn/intro-to-databases-back-end-development/home/week/1) Certification
-- [ ] Make the Post `Introduction to Databases for Back-End Development` on Linkedin
-- [ ] Share the certificate on LinkedIn post and add to certificates
+- [X] Complete the [Introduction to Databases for Back-End Development](https://www.coursera.org/learn/intro-to-databases-back-end-development/home/week/1) Certification
+- [X] Make the Post `Introduction to Databases for Back-End Development` on Linkedin
+- [X] Share the certificate on LinkedIn post and add to certificates
 
 #### Django Web Framework
-- [ ] Complete the [Django Web Framework](https://www.coursera.org/learn/django-web-framework/home/week/1) Certification
-- [ ] Make the Post `Django Web Framework` on Linkedin
-- [ ] Share the certificate on LinkedIn post and add to certificates
+- [X] Complete the [Django Web Framework](https://www.coursera.org/learn/django-web-framework/home/week/1) Certification
+- [X] Make the Post `Django Web Framework` on Linkedin
+- [X] Share the certificate on LinkedIn post and add to certificates
 
 #### APIs
-- [ ] Complete the [APIs](https://www.coursera.org/learn/apis/home/week/1) Certification
-- [ ] Make the Post `APIs` on Linkedin
-- [ ] Share the certificate on LinkedIn post and add to certificates
+- [X] Complete the [APIs](https://www.coursera.org/learn/apis/home/week/1) Certification
+- [X] Make the Post `APIs` on Linkedin
+- [X] Share the certificate on LinkedIn post and add to certificates
 
 ### Front-End Development
 
 #### React Basics
-- [ ] Complete the [React Basics](https://www.coursera.org/learn/react-basics/home/welcome) Certification
-- [ ] Make the Post `React Basics` on Linkedin
-- [ ] Share the certificate on LinkedIn post and add to certificates
+- [X] Complete the [React Basics](https://www.coursera.org/learn/react-basics/home/welcome) Certification
+- [X] Make the Post `React Basics` on Linkedin
+- [X] Share the certificate on LinkedIn post and add to certificates
 
 #### Advanced React
-- [ ] Complete the [Advanced React](https://www.coursera.org/learn/advanced-react/home/welcome) Certification
-- [ ] Make the Post `Advanced React` on Linkedin
-- [ ] Share the certificate on LinkedIn post and add to certificates
+- [X] Complete the [Advanced React](https://www.coursera.org/learn/advanced-react/home/welcome) Certification
+- [X] Make the Post `Advanced React` on Linkedin
+- [X] Share the certificate on LinkedIn post and add to certificates
 
 #### Principles of UX/UI Design
-- [ ] Complete the [Principles of UX/UI Design](https://www.coursera.org/learn/principles-of-ux-ui-design/home/welcome) Certification
-- [ ] Make the Post `Principles of UX/UI Design` on Linkedin
-- [ ] Share the certificate on LinkedIn post and add to certificates
+- [X] Complete the [Principles of UX/UI Design](https://www.coursera.org/learn/principles-of-ux-ui-design/home/welcome) Certification
+- [X] Make the Post `Principles of UX/UI Design` on Linkedin
+- [X] Share the certificate on LinkedIn post and add to certificates
