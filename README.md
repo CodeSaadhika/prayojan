@@ -16,9 +16,9 @@
 - Dacoid Digital Web Development internship assignment[Assignment link](https://dacoid.notion.site/Web-Dev-Assignment-b0301e382d7c49f1b2f712afe2f0b78c?pvs=4)
 
 ## Moodle
-- Setup moodle LMS named LearnIt
-- Setup a few courses in LearnIt
-- Deploy LearnIt to moodlecloud
+- [ ] Setup moodle LMS named LearnIt
+- [ ] Setup a few courses in LearnIt
+- [ ] Deploy LearnIt to moodlecloud
 
 ## Learn Projects- 
 - Learn to code by creating [projects](https://projectlearn.io/)
