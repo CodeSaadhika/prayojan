@@ -9,6 +9,7 @@
 
 
 ## Internship Assignment
+- [ ] Kitt Frontend Internship - [Assignment and submission instructions](https://kitthq.notion.site/Kitt-Frontend-Engineering-Challenge-114fc917a61380fd9ddef56737b4cffe)
 - [X] Web dev projects details -[website of King Sukh Guest House](https://drive.google.com/file/d/1JzwFTJOASbb8WpwmhNiAKKPulKn5wixL/view?usp=drive_link)
 - [ ] Advanced MERN Stack Developer Assignment:[ Building a Social Media Platform ](https://drive.google.com/file/d/1vfUdCwDeai13eZbQGVq5qjxX3O08GRw4/view?usp=drive_link)
 - [X] Fyle Web Development Internship assignment Challenge Details of the assignment -[Assignment link](https://fyleuniverse.notion.site/Fyle-Web-Development-Internship-Challenge-17d5401b2ebf47cf90a77f7b39ec680c)
