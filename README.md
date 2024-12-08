@@ -62,7 +62,7 @@
   
 ## FreeCodeCamp Courses
 #### Back End Development and APIs
-- [ ] Repeat the [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) Certification
+- [X] Repeat the [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) Certification
   ### Learning Concept
   
   #### Managing Packages with NPM
@@ -101,18 +101,21 @@
     - Create a Model
     - Create and Save a Record of a Model
     - Create Many Records with model.create()
-
-
-- [ ] Make the Post on Linkedin `Backend Development and APIs` course completion
-- [ ] Share the certificate on LinkedIn post and add to certificates
+    - Use model.find() to Search Your Database
+    - Use model.findOne() to Return a Single Matching Document from Your Database
+    - Use model.findById() to Search Your Database By _id
+    - Perform Classic Updates by Running Find, Edit, then Save
+    - Perform New Updates on a Document Using model.findOneAndUpdate()
+    - Delete One Document Using model.findByIdAndRemove
+    - Delete Many Documents with model.remove()
+    - Chain Search Query Helpers to Narrow Search Results
+- [X] Make the Post on Linkedin `Backend Development and APIs` course completion
+- [X] Share the certificate on LinkedIn post and add to certificates
 
 #### JavaScript Algorithms and Data structure
 - [ ] Complete the [JavaScript Algorithms and Data structure](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) Certification
 - [ ] Make the Post on Linkedin for `JavaScript Algorithms and Data structure` course completion
 - [ ] Share the certificate on LinkedIn post and add to certificates
-
-  ### `Portfolio work` 
-- [ ] Update the [Portfolio](https://satyasaadhika.github.io/) code from these JS learnings to use JSON data inserted in DOM
 
 ## Coursera Courses
 
